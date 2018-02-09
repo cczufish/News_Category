@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		312C4C6F202D74450041B5A2 /* CTMediator+RYNewsAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 312C4C6E202D74440041B5A2 /* CTMediator+RYNewsAction.m */; };
+		312C4C79202D7A230041B5A2 /* CTMediator+RYNewsAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 312C4C78202D7A230041B5A2 /* CTMediator+RYNewsAction.m */; };
 		319ACEC2202C3AEF0092B093 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 319ACEC1202C3AEF0092B093 /* AppDelegate.m */; };
 		319ACEC5202C3AEF0092B093 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 319ACEC4202C3AEF0092B093 /* ViewController.m */; };
 		319ACEC8202C3AEF0092B093 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 319ACEC6202C3AEF0092B093 /* Main.storyboard */; };
@@ -18,8 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		312C4C6D202D74440041B5A2 /* CTMediator+RYNewsAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CTMediator+RYNewsAction.h"; sourceTree = "<group>"; };
-		312C4C6E202D74440041B5A2 /* CTMediator+RYNewsAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CTMediator+RYNewsAction.m"; sourceTree = "<group>"; };
+		312C4C77202D7A230041B5A2 /* CTMediator+RYNewsAction.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CTMediator+RYNewsAction.h"; sourceTree = "<group>"; };
+		312C4C78202D7A230041B5A2 /* CTMediator+RYNewsAction.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CTMediator+RYNewsAction.m"; sourceTree = "<group>"; };
 		319ACEBD202C3AEF0092B093 /* News_Category.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = News_Category.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		319ACEC0202C3AEF0092B093 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		319ACEC1202C3AEF0092B093 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -58,8 +58,8 @@
 		312C4C6C202D74440041B5A2 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				312C4C6D202D74440041B5A2 /* CTMediator+RYNewsAction.h */,
-				312C4C6E202D74440041B5A2 /* CTMediator+RYNewsAction.m */,
+				312C4C77202D7A230041B5A2 /* CTMediator+RYNewsAction.h */,
+				312C4C78202D7A230041B5A2 /* CTMediator+RYNewsAction.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -237,7 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				319ACEC5202C3AEF0092B093 /* ViewController.m in Sources */,
-				312C4C6F202D74450041B5A2 /* CTMediator+RYNewsAction.m in Sources */,
+				312C4C79202D7A230041B5A2 /* CTMediator+RYNewsAction.m in Sources */,
 				319ACED0202C3AEF0092B093 /* main.m in Sources */,
 				319ACEC2202C3AEF0092B093 /* AppDelegate.m in Sources */,
 			);

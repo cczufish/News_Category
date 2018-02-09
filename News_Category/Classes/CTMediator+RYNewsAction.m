@@ -1,12 +1,13 @@
 //
 //  CTMediator+RYNewsAction.m
-//  RYTools_Example
+//  News_Category
 //
-//  Created by jingruijiaoyu on 2018/2/8.
-//  Copyright © 2018年 cczufish. All rights reserved.
+//  Created by jingruijiaoyu on 2018/2/9.
+//  Copyright © 2018年 jingruijiaoyu. All rights reserved.
 //
 
 #import "CTMediator+RYNewsAction.h"
+
 NSString * const KCTMediatorTarget_News = @"News";
 NSString * const KCTMediatorActionNativTo_NewsViewController = @"NativeToNewsViewController";
 
@@ -22,6 +23,4 @@ NSString * const KCTMediatorActionNativTo_NewsViewController = @"NativeToNewsVie
         return [[UIViewController alloc] init];
     }
 }
-
-
 @end
