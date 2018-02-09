@@ -6,7 +6,6 @@
 //  Copyright © 2018年 cczufish. All rights reserved.
 //
 
-#import <CTMediator/CTMediator.h>
 #import "CTMediator.h"
 
 @interface CTMediator (RYNewsAction)
